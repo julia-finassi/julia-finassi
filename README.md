@@ -1,16 +1,40 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=buefy&show_icons=true)
 
-<!--
-**lia18317/lia18317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hello World! Eu sou a Júlia Reinaldi Finassi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="400"/>
 
-Here are some ideas to get you started:
+<h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :rainbow: &nbsp; Pode me chamar de lia, 
+- 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente React;
+- 🎓 &nbsp; Sou formada em ADS no COTUCA - Colégio Técnico de Campinas da Unicamp;
+- 🎓 &nbsp; Estou no primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas - UniMetrocamp;
+- 💼 &nbsp; No momento estou em busca de novas oportunidadeds de aprendizado;
+- :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
+- :iphone: &nbsp; Jogo alguns jogos online no meu tempo livre, e fora da pandemia organizava excursões para eventos, trilhas, viagens;
+
+<h3>:atom: Competências Técnicas: </h3>
+
+- 💻 &nbsp; Testes funcionais | JavaScript | Wordpress | HTML | CSS  
+- 🌐 &nbsp; Bootstrap | React | Vue 
+- :scroll: &nbsp; SQL Server | NodeJS | API 
+- :art: &nbsp; Photoshop | Figma
+- 🔧 &nbsp; Scrum | Kanban | Github
+
+<br>
+
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lia18317"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lia18317&show_icons=true&include_all_commits=true&theme=buefy" alt="Lia's github stats" />
+</a>
+
+</br>
+
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lia18317"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lia18317&layout=compact&theme=buefy" />
+</a>
+
+<h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
+
+<p align="center">
+ 
+&nbsp; <a href="https://www.linkedin.com/in/lia18317/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:juliareinaldi@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
