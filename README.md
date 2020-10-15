@@ -4,7 +4,7 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :rainbow: &nbsp; Pode me chamar de lia, 
+- :rainbow: &nbsp; Pode me chamar de Lia, 
 - 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente React;
 - 🎓 &nbsp; Sou formada em ADS no COTUCA - Colégio Técnico de Campinas da Unicamp;
 - 🎓 &nbsp; Estou no primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas - UniMetrocamp;
