@@ -15,7 +15,7 @@
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
 - 💻 &nbsp; Testes funcionais | JavaScript | Wordpress | HTML | CSS  
-- 🌐 &nbsp; Bootstrap | React | Vue 
+- 🌐 &nbsp; Bootstrap | ReactJs | React Native 
 - :scroll: &nbsp; SQL Server | NodeJS | API 
 - :art: &nbsp; Photoshop | Figma
 - 🔧 &nbsp; Scrum | Kanban | Github
