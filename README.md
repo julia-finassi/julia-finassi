@@ -22,18 +22,18 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lia18317"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lia18317&show_icons=true&include_all_commits=true&theme=buefy" alt="Lia's github stats" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julia-finassi"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=julia-finassi&show_icons=true&include_all_commits=true&theme=buefy" alt="Lia's github stats" />
 </a>
 
 </br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lia18317"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lia18317&layout=compact&theme=buefy" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julia-finassi"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=julia-finassi&layout=compact&theme=buefy" />
 </a>
 
 <h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
 
 <p align="center">
  
-&nbsp; <a align="center" href="https://www.linkedin.com/in/lia18317/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a align="center" href="https://www.linkedin.com/in/julia-finassi/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a align="center" href="mailto:juliareinaldi@outlook.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
