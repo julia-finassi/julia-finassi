@@ -4,11 +4,11 @@
 
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :rainbow: &nbsp; Pode me chamar de Lia, 
+- :rainbow: &nbsp; Me mudei ano passado para a Irlanda em busca de novas oportunidades e expandir meus horizontes, 
 - 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente React;
 - 🎓 &nbsp; Sou formada em ADS no COTUCA - Colégio Técnico de Campinas da Unicamp;
-- 🎓 &nbsp; Estou no primeiro semestre da faculdade de Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-- 💼 &nbsp; No momento estou em busca de novas oportunidades de aprendizado;
+- 🎓 &nbsp; Estou na metade da faculdade de Engenharia de Software;
+- 💼 &nbsp; No momento estou em busca de novas oportunidades em um ambiente fora do Brasil seja remoto ou presencial;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
 - :iphone: &nbsp; Jogo alguns jogos online no meu tempo livre, e fora da pandemia organizava excursões para eventos, trilhas, viagens;
 
